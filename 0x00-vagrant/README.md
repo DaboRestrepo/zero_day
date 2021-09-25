@@ -1,0 +1,1 @@
+Este directorio se va a utilizar para imprimir lo que aparece en el comando uname sin nada más.
